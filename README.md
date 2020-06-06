@@ -12,7 +12,7 @@ Get longest and shortest word with their lengths in a sentence
 4. Characters not used in english language are not part of a word
 
 ## Usage
-1. Download or clone the repo.
+1. Download or clone the repo
 2. To execute tests: **mvn test**
 3. Add additional JUnit tests in src/test/java/SentenceTest.java to test additional sentences
 4. Copy Sentence class and use getLongestWordAndLength("String param") and getShortestWordAndLength("String param") methods in your program 
