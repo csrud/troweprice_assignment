@@ -1,7 +1,7 @@
 # Sentence Assignment
 Get longest and shortest word with their lengths in a sentence
 
-##Software Required
+## Software Required
 1. JDK 8 or higher
 2. Maven
 
@@ -11,7 +11,7 @@ Get longest and shortest word with their lengths in a sentence
 3. Numbers are neither words nor part of a word
 4. Characters not used in english language are not part of a word
 
-##Usage
+## Usage
 1. Download or clone the repo.
 2. To execute tests: **mvn test**
 3. Add additional JUnit tests in src/test/java/SentenceTest.java to test additional sentences
